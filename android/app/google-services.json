@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826670796960",
+    "project_id": "rego-demo-tc95rh",
+    "storage_bucket": "rego-demo-tc95rh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826670796960:android:1543409e21c3c8830d39c5",
+        "android_client_info": {
+          "package_name": "com.mycompany.regodemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClyjYT0tR7BRXzZ90mJilVt9Huj3xED4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
